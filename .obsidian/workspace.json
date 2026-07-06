@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "18148fc6663fccdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a4e2c24bff8f568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc19d7c648ee593e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9fad38de8c181e39",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01b470ffad0344d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8621327dd159a9ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9d52cb61c4e1ffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cff00b75bc220ee4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dcaf61411ab9380e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "844b6afa75374d3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b7b487e2ba4ad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6d3ddbcbf1c0c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a0f1fc08c6bf0fb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4392d464ce4e65eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6055d4951206236",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2464726181445d73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9fad38de8c181e39",
+  "lastOpenFiles": [
+    "Ultimate Second brain Video.md",
+    "wiki/entities/christoffer-liljeback.md",
+    "Clippings/Boden Original N2.7 Amber Haze Burst Gloss.md",
+    "Clippings/Boden Standard  .strandberg* Guitars.md",
+    "Clippings/Boden Original N2  .strandberg* Guitars.md",
+    "Clippings/Boden Essential  .strandberg* Guitars.md",
+    "wiki/sources/christoffer-personal.md",
+    "Clippings/about-me.md",
+    "Clippings/christoffer-privat.md",
+    "Clippings/Hur jag byggde detta från början.md",
+    "Clippings/How to create a Second Brain.md",
+    "christoffer privat.md",
+    "wiki/entities/strandberg-web-performance.md",
+    "wiki/concepts/claude-code-best-practices.md",
+    "wiki/sources/claude-code-best-practices-guide.md",
+    "wiki/sources/strandberg-web-analytics-dashboard.md",
+    "wiki/sources/strandberg-allabolag-financials.md",
+    "Clippings/Best practices for Claude Code.md",
+    "Clippings/Strandberg Guitars AB - Org.nr 556889-2862 - Uppsala - Se Nyckeltal, Befattningar med mera..md",
+    "Clippings/Strandberg Guitars - Weekly Web Dashboard 1.md",
+    "Clippings/Strandberg Guitars - Weekly Web Dashboard.md",
+    "Clippings/about-me-operating-manual.md",
+    "wiki/concepts/content-decision-framework.md",
+    "wiki/sources/about-me-operating-manual.md",
+    "about-me.md",
+    "wiki/index.md",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Clippings"
+  ]
+}
