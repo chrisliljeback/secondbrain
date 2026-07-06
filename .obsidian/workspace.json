@@ -185,11 +185,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "9fad38de8c181e39",
   "lastOpenFiles": [
+    "Inbox/2026-07-05_23-17-07.md",
+    "Inbox",
     "Ultimate Second brain Video.md",
     "wiki/entities/christoffer-liljeback.md",
     "Clippings/Boden Original N2.7 Amber Haze Burst Gloss.md",
@@ -215,7 +218,6 @@
     "wiki/concepts/content-decision-framework.md",
     "wiki/sources/about-me-operating-manual.md",
     "about-me.md",
-    "wiki/index.md",
     "wiki/sources",
     "wiki/entities",
     "wiki/concepts",
