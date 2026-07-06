@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a4e2c24bff8f568",
+        "id": "5e00e8a9cab62aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "dc19d7c648ee593e",
+            "id": "726d7c5fdee84254",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,7 +18,59 @@
             }
           },
           {
-            "id": "9fad38de8c181e39",
+            "id": "6d8281325f6a67d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Om Mediaflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Om Mediaflow"
+            }
+          },
+          {
+            "id": "f931b9f78f1e1cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vår V40.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vår V40"
+            }
+          },
+          {
+            "id": "f4d3aa65042d20a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c3f581aadac13990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Om Mediaflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Om Mediaflow"
+            }
+          },
+          {
+            "id": "6b6fec7600eebfc2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,41 +241,47 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9fad38de8c181e39",
+  "active": "6b6fec7600eebfc2",
   "lastOpenFiles": [
-    "Inbox/2026-07-05_23-17-07.md",
-    "Inbox",
-    "Ultimate Second brain Video.md",
-    "wiki/entities/christoffer-liljeback.md",
-    "Clippings/Boden Original N2.7 Amber Haze Burst Gloss.md",
-    "Clippings/Boden Standard  .strandberg* Guitars.md",
-    "Clippings/Boden Original N2  .strandberg* Guitars.md",
-    "Clippings/Boden Essential  .strandberg* Guitars.md",
-    "wiki/sources/christoffer-personal.md",
-    "Clippings/about-me.md",
-    "Clippings/christoffer-privat.md",
-    "Clippings/Hur jag byggde detta från början.md",
-    "Clippings/How to create a Second Brain.md",
-    "christoffer privat.md",
-    "wiki/entities/strandberg-web-performance.md",
-    "wiki/concepts/claude-code-best-practices.md",
-    "wiki/sources/claude-code-best-practices-guide.md",
-    "wiki/sources/strandberg-web-analytics-dashboard.md",
-    "wiki/sources/strandberg-allabolag-financials.md",
-    "Clippings/Best practices for Claude Code.md",
-    "Clippings/Strandberg Guitars AB - Org.nr 556889-2862 - Uppsala - Se Nyckeltal, Befattningar med mera..md",
-    "Clippings/Strandberg Guitars - Weekly Web Dashboard 1.md",
-    "Clippings/Strandberg Guitars - Weekly Web Dashboard.md",
-    "Clippings/about-me-operating-manual.md",
-    "wiki/concepts/content-decision-framework.md",
-    "wiki/sources/about-me-operating-manual.md",
-    "about-me.md",
-    "wiki/sources",
-    "wiki/entities",
-    "wiki/concepts",
-    "wiki",
-    "Untitled 1.canvas",
+    "Träning.md",
+    "Om Mediaflow.md",
+    "Gavin Ortlund - UItimate case for protestants.md",
+    "Kontorsmöte med Markus — Strategisk riktning för Strandberg Guitars.md",
+    "Kreset_extern_utskrift.pdf",
+    "Överlåtelseavtal - Fyrislundsgatan 50.pdf",
+    "Planritning - Entreplan nedre våning.jpg",
     "Untitled.canvas",
-    "Clippings"
+    "Untitled 1.canvas",
+    "Website Audit från Johan Dec 2025.md",
+    "SEO Audit · strandbergguitars.com · March 2026 1.pdf",
+    "SEO Audit · strandbergguitars.com · March 2026.pdf",
+    "Clippings/Christoffer Liljebäck linked in.md",
+    "Marketing Möte July 1.md",
+    "Gör detta med Youtube transkribtionerna om tro.md",
+    "Clippings/christoffer-privat.md",
+    "Inbox/2026-07-06_08-33-21.md",
+    "wiki/sources/how-i-built-this-tutorial.md",
+    "V90 information.md",
+    "CLAUDE.md",
+    "CLAUDE_orginal.md",
+    "CLAUDE_UPDATED.md",
+    "Clippings/Tajma börsen vad det kostar att sälja och vänta ut oron.md",
+    "Dave Ramseys Baby Steps.md",
+    "Vår V40.md",
+    "Hur jag satte upp Claude Cowork (Video instruktioner).md",
+    "wiki/log.md",
+    "Inbox/2026-07-05_23-17-07.md",
+    "Clippings/Nylon 3-lager Bomberjacka.md",
+    "Clippings/Elektriskt Höj- och Sänkbart Skrivbord HomePro.md",
+    "Gavin Ortlund om Ikon tillbedjan.md",
+    "Gavin Ortlund - Om påveämbetet.md",
+    "Gavin Ortlund - Påvedömet är inte från Gud.md",
+    "Förmedlingsuppdrag - Fyrislundsgatan 50.pdf",
+    "Claude 4.pdf",
+    "Skuldebrev.pdf",
+    "Skuldebrev (1).pdf",
+    "Kreset_extern_info.pdf",
+    "Amorteringsrekommendation.pdf",
+    "Planritning - Plan 2 övre våning.jpg"
   ]
 }

@@ -143,3 +143,153 @@ Report findings and suggest new questions to investigate or sources to look for.
 - When Christoffer says "remember this in my second brain," file it to the most
   specific relevant page and log it.
 - If you struggle to navigate the wiki, that's a signal to improve this file.
+
+
+---
+
+# Second Brain Integration
+
+## Purpose
+
+This workspace is part of a larger personal knowledge system.
+
+Think of it as three connected layers:
+
+1. **about-me.md** — long-term operating manual. Stable. Defines who Christoffer is, how he works, how decisions are made, and how you should collaborate.
+
+2. **memory.md** — working memory. Frequently updated. Tracks active projects, decisions, progress and changelog.
+
+3. **Second Brain (Obsidian wiki)** — long-term knowledge. Contains durable information about work, home, finances, tools, vehicles, learning, health, faith, ideas and research.
+
+These layers complement each other. Do not duplicate them unnecessarily.
+
+---
+
+## Using external context
+
+Before answering substantial questions or processing new information:
+
+- Read `about-me.md` when working style, priorities or long-term preferences matter.
+- Read `memory.md` when project status or recent decisions matter.
+- Read the Second Brain when durable knowledge or historical context matters.
+
+Treat them as separate sources with different purposes.
+
+---
+
+## Knowledge Routing
+
+When processing information, decide where it belongs.
+
+### about-me.md
+
+Store only long-term operating principles.
+
+Examples:
+
+- working style
+- communication preferences
+- decision framework
+- career direction
+- creative standards
+
+Avoid project status or temporary notes.
+
+### memory.md
+
+Store:
+
+- active project status
+- recent decisions
+- changelog
+- open work
+
+Overwrite current project status instead of duplicating it.
+
+### Second Brain
+
+Store durable knowledge.
+
+Examples:
+
+- insurance
+- mortgage
+- manuals
+- product knowledge
+- AI research
+- workflows
+- meeting conclusions
+- personal frameworks
+- lessons learned
+
+If information will probably still be useful in a year, it usually belongs here.
+
+---
+
+## Sync workflow
+
+When Christoffer asks to sync:
+
+1. Identify new or changed files.
+2. Read markdown, PDFs, images and documents when possible.
+3. Classify each item.
+4. Create or update knowledge pages.
+5. Prefer updating existing pages over creating duplicates.
+6. Add useful internal links.
+7. Detect contradictions and stale information.
+8. Update indexes where appropriate.
+9. Produce a concise sync report including:
+   - new sources
+   - pages created
+   - pages updated
+   - links added
+   - issues found
+   - suggested next actions
+
+Never respond only with "Sync complete".
+
+---
+
+## PDF handling
+
+Treat PDFs as source material.
+
+Do not leave valuable information trapped inside documents.
+
+Extract:
+
+- key facts
+- important dates
+- costs
+- obligations
+- limitations
+- risks
+- review dates
+- decisions
+
+Create or update Markdown pages that summarize the practical knowledge while preserving the original PDF as the authoritative source.
+
+---
+
+## Writing principles
+
+The wiki should read like a practical handbook.
+
+Prefer:
+
+- concise writing
+- tables
+- checklists
+- timelines
+- important numbers
+- decisions
+- actionable notes
+
+Avoid:
+
+- generic summaries
+- unnecessary prose
+- repeating the source document
+- AI clichés
+
+The goal is fast retrieval, not impressive writing.

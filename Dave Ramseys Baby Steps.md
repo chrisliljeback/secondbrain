@@ -1,0 +1,6 @@
+- Save $1,000 for a starter emergency fund.
+- Pay off all debt (except your house) using the debt snowball method.
+- Save 3 to 6 months of expenses in a full emergency fund.
+- Invest 15% of your household income for retirement.
+- Save for your children's college fund.
+- Pay off your home early.
